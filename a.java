@@ -1,4 +1,4 @@
-This is the intial content for a.java
+#This is the intial content for a.java
 
 void main () {
         println "Hello World"
